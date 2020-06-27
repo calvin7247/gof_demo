@@ -1,5 +1,5 @@
 public class Printer implements Printable{
-    String name;
+    private String name;
 
     Printer() {
         heavyJob("instance is initialized");

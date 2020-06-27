@@ -1,5 +1,5 @@
 public class PrinterProxy implements Printable{
-    String name;
+    private String name;
     Printer printer;
 
     PrinterProxy() {
