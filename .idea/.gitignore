@@ -8,5 +8,11 @@
 /httpRequests/
 /out
 /.idea
-/lib
-*.iml
+/../lib
+/../*.iml
+/../lib/*
+/kotlinc.xml
+/libraries/KotlinJavaRuntime.xml
+/../out/*
+/../ProxyMode.iml
+/vcs.xml
